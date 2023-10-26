@@ -3,4 +3,4 @@
 
 ## Mis estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=darlyn12340&show_icons=true)](https://github.com/delirius0)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=darlyn1234&show_icons=true)](https://github.com/delirius0)
